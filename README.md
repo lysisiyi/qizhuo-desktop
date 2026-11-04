@@ -6,10 +6,14 @@
 
 | 版本 | 下载 | 压缩包大小 |
 | --- | --- | --- |
-| Native Lite 0.4.7（预览版） | [下载 Lite](https://github.com/lysisiyi/qizhuo-desktop/releases/download/lite-v0.4.7/QizhuoLite-0.4.7-windows-x64.zip) · [版本说明](https://github.com/lysisiyi/qizhuo-desktop/releases/tag/lite-v0.4.7) | 0.75 MiB |
+| Native Lite 0.4.14（预览版） | [下载 Lite](https://github.com/lysisiyi/qizhuo-desktop/releases/download/lite-v0.4.14/QizhuoLite-0.4.14-windows-x64.zip) · [版本说明](https://github.com/lysisiyi/qizhuo-desktop/releases/tag/lite-v0.4.14) | 0.75 MiB |
 | 完整版 0.27.0 | [下载完整版](https://github.com/lysisiyi/qizhuo-desktop/releases/download/full-v0.27.0/Qizhuo-0.27.0-windows-x64.zip) · [版本说明](https://github.com/lysisiyi/qizhuo-desktop/releases/tag/full-v0.27.0) | 134.92 MiB |
 
 请下载带有 windows-x64.zip 的程序包。GitHub 自动生成的 Source code 压缩包不是可执行软件包。
+
+## Lite 最近更新
+
+Lite 0.4.14 的分屏小箭头会在按钮下方展开玻璃快捷布局，点选即可排列窗口，无需打开分屏工作台；收起后释放临时玻璃面板。另包含窗口列表兼容、零间距排列及显示桌面后软件栏恢复修复。
 
 ## 两个版本怎么选
 
